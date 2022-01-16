@@ -1,2 +1,2 @@
 # Desafio-DIO
- criar um repositório - DIO
+Criar um Repositório - DIO
